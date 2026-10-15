@@ -1,73 +1,50 @@
-<h2 align="center">Hi, This is Moein Makkiyan, and I am a last-year Bachelor of Science student in Electrical Engineering at Sharif University of Technology!</h2>
+<h1 align="center">Seyed Moienadin Makkiyan</h1>
 
-###
+<p align="center">
+  <b>Electrical Engineering · Sharif University of Technology</b><br/>
+  Embedded systems · Digital design · Software engineering
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="89" height="35" alt="gmail logo"  />
-  <a href="t.me/new_moien" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="89" height="35" alt="telegram logo"  />
-  </a>
-  <a href="09131581478" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="89" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/moien_makkiyan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="89" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/moien-makkiyan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="89" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+  <a href="https://ee.sharif.edu/~moien.makkiyan/"><img src="https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/moien-makkiyan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/new_moien"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://x.com/Moien_Makkiyan"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoienMakkiyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MoienMakkiyan&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoienMakkiyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### About me
 
-###
+- 🎓 Electrical Engineering at **Sharif University of Technology**, Tehran
+- 🧑‍🏫 Prepared course material and tutorials for **Basic Programming (C++)**, **Verilog** and **MATLAB**
+- 🔧 Interested in hardware/software co-design, embedded systems and backend development
+- 📫 Open to collaboration and opportunities — reach out via [LinkedIn](https://www.linkedin.com/in/moien-makkiyan/) or [Telegram](https://t.me/new_moien)
 
-<img align="right" height="150" src="https://imgtr.ee/images/2023/09/10/7f46b7ebd5b5e1d4a4301684dbeb081a.jpeg"  />
+### Tech stack
 
-###
+**Languages:** C · C++ · Java · Python · C# · Verilog · MATLAB · SQL<br/>
+**Tools:** Linux · Git · Docker · Arduino · LaTeX
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="53" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="53" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="53" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="53" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="53" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="53" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="53" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="53" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="53" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="53" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="53" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="53" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="53" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="53" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="53" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="53" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="53" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="53" alt="arduino logo"  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,matlab,mysql,linux,git,docker,arduino,latex&perline=12" alt="Tech stack"/>
+</p>
 
-###
+### Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [BP2024](https://github.com/MoienMakkiyan/BP2024) · [BP2023](https://github.com/MoienMakkiyan/BP2023) | Course material for Basic Programming at Sharif | C++ |
+| [cpp-tutorial](https://github.com/MoienMakkiyan/cpp-tutorial) | C++ tutorial and examples | C++ |
+| [verilog-tutorial](https://github.com/MoienMakkiyan/verilog-tutorial) | Verilog / digital design tutorial | Verilog |
+| [MATLAB-tutorial](https://github.com/MoienMakkiyan/MATLAB-tutorial) | MATLAB tutorial for engineering students | MATLAB |
+| [BP-Project_break-bricks](https://github.com/MoienMakkiyan/BP-Project_break-bricks) | Brick-breaker game | C++ |
+| [SharifMarket](https://github.com/MoienMakkiyan/SharifMarket) | Marketplace application (OOP project) | Java |
+| [Collision-Simulation-1](https://github.com/MoienMakkiyan/Collision-Simulation-1) | Physics collision simulation | Java |
+
+### GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MoienMakkiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoienMakkiyan&layout=compact&langs_count=6&hide_border=true&theme=transparent" height="165" alt="Top languages"/>
+</p>
